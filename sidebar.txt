@@ -17,10 +17,7 @@ All content for this namespace is available in the [[https://github.com/Door43/d
 
 [[http://www.ethnologue.com/language/pcg|Ethnologue data]]
 
-
 **Resources**
 
   * [[pcg:obs|Open Bible Stories (pcg)]]
 
-**Latest OBS Status**
-{{page>en:uwadmin:pcg:obs:status}}
